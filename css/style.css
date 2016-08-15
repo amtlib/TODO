@@ -1,0 +1,23 @@
+body {
+    background-color: #212121;
+    color: #eeeeee;
+}
+input:focus {
+    outline-color: red;
+}
+.item{
+    border: 2px solid #aaaaaa;
+    padding: 10px;
+    display: inline-block;
+    margin: 20px;
+    text-align: center
+}
+.c0{
+    background-color:darkslateblue;
+}
+.c1 {
+    background-color:crimson;
+}
+.c2 {
+    background-color:darkgreen;
+}
